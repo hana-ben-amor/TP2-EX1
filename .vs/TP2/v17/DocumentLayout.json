@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hanab\\source\\repos\\TP2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91C0888F-9D46-4E1B-8CB7-1CA18416C516}|TP2.csproj|c:\\users\\hanab\\source\\repos\\tp2\\ex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C0888F-9D46-4E1B-8CB7-1CA18416C516}|TP2.csproj|solutionrelative:ex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C0888F-9D46-4E1B-8CB7-1CA18416C516}|TP2.csproj|c:\\users\\hanab\\source\\repos\\tp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C0888F-9D46-4E1B-8CB7-1CA18416C516}|TP2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ex2.cs",
+              "DocumentMoniker": "C:\\Users\\hanab\\source\\repos\\TP2\\ex2.cs",
+              "RelativeDocumentMoniker": "ex2.cs",
+              "ToolTip": "C:\\Users\\hanab\\source\\repos\\TP2\\ex2.cs",
+              "RelativeToolTip": "ex2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:37:32.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hanab\\source\\repos\\TP2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hanab\\source\\repos\\TP2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:34:09.876Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

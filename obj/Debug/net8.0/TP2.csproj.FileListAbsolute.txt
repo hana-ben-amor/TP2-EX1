@@ -1,0 +1,14 @@
+C:\Users\hanab\source\repos\TP2\bin\Debug\net8.0\TP2.exe
+C:\Users\hanab\source\repos\TP2\bin\Debug\net8.0\TP2.deps.json
+C:\Users\hanab\source\repos\TP2\bin\Debug\net8.0\TP2.runtimeconfig.json
+C:\Users\hanab\source\repos\TP2\bin\Debug\net8.0\TP2.dll
+C:\Users\hanab\source\repos\TP2\bin\Debug\net8.0\TP2.pdb
+C:\Users\hanab\source\repos\TP2\obj\Debug\net8.0\TP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanab\source\repos\TP2\obj\Debug\net8.0\TP2.AssemblyInfoInputs.cache
+C:\Users\hanab\source\repos\TP2\obj\Debug\net8.0\TP2.AssemblyInfo.cs
+C:\Users\hanab\source\repos\TP2\obj\Debug\net8.0\TP2.csproj.CoreCompileInputs.cache
+C:\Users\hanab\source\repos\TP2\obj\Debug\net8.0\TP2.dll
+C:\Users\hanab\source\repos\TP2\obj\Debug\net8.0\refint\TP2.dll
+C:\Users\hanab\source\repos\TP2\obj\Debug\net8.0\TP2.pdb
+C:\Users\hanab\source\repos\TP2\obj\Debug\net8.0\TP2.genruntimeconfig.cache
+C:\Users\hanab\source\repos\TP2\obj\Debug\net8.0\ref\TP2.dll
